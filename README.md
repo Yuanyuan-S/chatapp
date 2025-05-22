@@ -30,3 +30,5 @@ git clone git@github.com:Yuanyuan-S/chatapp.git
 cd chatapp
 npm install
 npm start
+
+TESTING
